@@ -920,8 +920,8 @@ img {
 
 @media (max-width: 767px) {
     .section-title p {
-        font-size: 14px;
-        font-size: 0.93333rem;
+        font-size: 15px;
+        font-size: 1.5rem;
     }
 }
 
@@ -949,9 +949,16 @@ img {
 
 @media (max-width: 767px) {
     .theme-btn {
-        padding: 15px 45px 15px 20px;
-        font-size: 12px;
-        font-size: 0.8rem;
+        padding: 15px 45px 15px 45px;
+        font-size: 13px;
+         font-size: 1.2rem;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-content: stretch;
+        justify-content: space-evenly;
+        align-items: center;
     }
 }
 
@@ -1596,6 +1603,9 @@ img {
 }
 
 @media (max-width: 991px) {
+    .hero-slider .slide-inner{
+        background-size: cover;
+    }
     .hero-style-1 h2 {
         font-size: 60px;
         font-size: 4rem;
@@ -1870,14 +1880,15 @@ img {
 @media (max-width: 991px) {
     .footer-style-1 h2 {
         font-size: 52px;
-        font-size: 3.46667rem;
+        font-size: 6rem;
+        padding-top: 50px;
     }
 }
 
 @media (max-width: 767px) {
     .footer-style-1 h2 {
         font-size: 42px;
-        font-size: 2.8rem;
+        font-size: 6rem;
     }
 }
 
@@ -1904,15 +1915,15 @@ img {
 }
 
 .footer-style-1 p {
-    font-size: 14px;
-    font-size: 0.93333rem;
+    font-size: 17px;
+    font-size: 1.7rem;
     margin: 2em 0 0;
 }
 
 @media (max-width: 767px) {
     .footer-style-1 p {
-        font-size: 12px;
-        font-size: 0.8rem;
+        font-size: 17px;
+        font-size: 1.7rem;
     }
 }
 
@@ -2040,11 +2051,13 @@ img {
 
 @media (max-width: 767px) {
     .invitation-section .invitation-box h2 {
-        font-size: 28px;
-        font-size: 1.86667rem;
+        font-size: 3rem;
+        line-height: inherit;
     }
 }
-
+.font_style{
+    font-family: "aphroditeslimtextregular";
+}
 .invitation-section .invitation-box h2 + span {
     font-size: 16px;
     font-size: 1.06667rem;
@@ -2069,20 +2082,20 @@ img {
 @media (max-width: 991px) {
     .invitation-section .invitation-box h3 {
         font-size: 24px;
-        font-size: 1.6rem;
+        font-size: 2rem;
     }
 }
 
 @media (max-width: 767px) {
     .invitation-section .invitation-box h3 {
-        font-size: 18px;
-        font-size: 1.2rem;
+        font-size: 21px;
+        font-size: 2rem;
     }
 }
 
 .invitation-section .invitation-box p {
     font-size: 15px;
-    font-size: 1rem;
+    font-size: 1.3rem;
     text-transform: uppercase;
     margin-bottom: 2em;
 }
@@ -2097,7 +2110,7 @@ img {
 @media (max-width: 767px) {
     .invitation-section .invitation-box p {
         font-size: 12px;
-        font-size: 0.8rem;
+        font-size: 1.3rem;
     }
 }
 
@@ -2337,8 +2350,8 @@ img {
 
 @media (max-width: 767px) {
     .story-section .details h3 {
-        font-size: 20px;
-        font-size: 1.33333rem;
+        font-size: 25px;
+        font-size: 2.5rem;
     }
 }
 
@@ -2349,11 +2362,16 @@ img {
     display: block;
     margin-bottom: 1.5em;
 }
-
+.recuerdos{
+    width: 60%;
+}
 @media (max-width: 991px) {
     .story-section .details p {
-        font-size: 14px;
-        font-size: 0.93333rem;
+        font-size: 15px;
+        font-size: 1.5rem;
+    }
+    .recuerdos{
+        width: 100%;
     }
 }
 
