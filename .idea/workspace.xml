@@ -11,31 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef2789f-df90-4ff3-bd7b-fef7ba92a4c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/couple-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/couple-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_bg_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_bg_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_bg_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_bg_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/foto1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/foto2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/foto3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/foto1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/foto1.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +60,7 @@
       <workItem from="1650905211695" duration="7972000" />
       <workItem from="1650932843438" duration="8141000" />
       <workItem from="1650980336249" duration="23095000" />
-      <workItem from="1651603647974" duration="7689000" />
+      <workItem from="1651603647974" duration="8558000" />
     </task>
     <task id="LOCAL-00001" summary="invitacion de boda">
       <created>1651019975470</created>
@@ -128,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651024400899</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="boda">
+      <created>1651618130326</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651618130326</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +131,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="invitacion de boda" />
-    <option name="LAST_COMMIT_MESSAGE" value="invitacion de boda" />
+    <MESSAGE value="boda" />
+    <option name="LAST_COMMIT_MESSAGE" value="boda" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1877" height="109" key="GridCell.Tab.0.bottom" timestamp="1650923266597">
@@ -215,10 +199,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650905096544" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1651024401907">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1651618137963">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1651024401907" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1651618137963" />
     <state x="667" y="253" width="585" height="592" key="find.popup" timestamp="1651617860699">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
