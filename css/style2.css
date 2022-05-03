@@ -963,25 +963,21 @@ img {
 }
 
 .form ::-webkit-input-placeholder {
-    font-style: 14px;
     font-style: italic;
     color: #595959;
 }
 
 .form :-moz-placeholder {
-    font-style: 14px;
     font-style: italic;
     color: #595959;
 }
 
 .form ::-moz-placeholder {
-    font-style: 14px;
     font-style: italic;
     color: #595959;
 }
 
 .form :-ms-input-placeholder {
-    font-style: 14px;
     font-style: italic;
     color: #595959;
 }
@@ -1379,7 +1375,7 @@ img {
     color: #797979;
     font-weight: 300;
     font-size: 12px;
-    font-size: 0.8rem;
+    font-size: 1.3rem;
     text-transform: uppercase;
     display: inline-block;
     position: relative;
@@ -1389,7 +1385,7 @@ img {
 @media (max-width: 991px) {
     .header-style-1 .site-logo h1 + span {
         font-size: 10px;
-        font-size: 0.66667rem;
+        font-size: 1rem;
     }
 }
 
@@ -1813,7 +1809,7 @@ img {
 .footer-style-1 {
     background: url(https://themegeniuslab.com/html/jolly/assets/images/footer-shape.png) center bottom/100% no-repeat local;
     text-align: center;
-    height: 80vh;
+    height: 60vh;
     position: relative;
 }
 
@@ -1821,7 +1817,7 @@ img {
     .footer-style-1 {
         min-height: 380px;
         background-color: rgba(178, 201, 211, 0.1);
-        height: 40vh;
+        height: 65vh;
     }
 }
 
@@ -1950,7 +1946,7 @@ img {
     max-width: 580px;
     padding: 120px 100px;
     -webkit-box-shadow: 0px 3px 24px 0px rgba(0, 0, 0, 0.06);
-    box-shadow:0px 3px 24px 0px rgb(0 0 0 / 0%);
+    /*box-shadow:0px 3px 24px 0px rgb(0 0 0 / 0%);*/
     text-align: center;
     margin: 100px auto;
     position: relative;
@@ -1988,7 +1984,7 @@ img {
         position: absolute;
         left: 20px;
         top: 20px;
-        border: 3px solid rgb(178 201 211 / 0%);
+        /*border: 3px solid rgb(178 201 211 / 0%);*/
     }
 }
 
@@ -2018,7 +2014,7 @@ img {
 
 .invitation-section .invitation-box .right-vec {
     background: url("../images/invitacion_fondo.jpg") center center/cover no-repeat local;
-    width: 100vh;
+    width: 1015px;
     height: 775px;
     position: absolute;
     right: -170px;
@@ -2034,7 +2030,7 @@ img {
 @media (max-width: 991px) {
     .invitation-section .invitation-box .right-vec {
         /*background: url("../images/invitacion_fondo_movil.png") center center/cover no-repeat local;*/
-        width: 100vh;
+        width: 840px;
         height: 601px;
         right: -231px;
         bottom: 37px;
@@ -2042,7 +2038,7 @@ img {
 }
 
 .invitation-section .invitation-box h2 {
-    font-family: "aphroditeslimtextregular";
+    font-family: "aphroditeslimtextregular", serif;
     font-size: 50px;
     font-size: 3.33333rem;
     margin: 0 0 0.6em;
@@ -2621,25 +2617,21 @@ img {
 }
 
 .contact-section .form ::-webkit-input-placeholder {
-    font-style: 14px;
     font-style: normal;
     color: #797979;
 }
 
 .contact-section .form :-moz-placeholder {
-    font-style: 14px;
     font-style: normal;
     color: #797979;
 }
 
 .contact-section .form ::-moz-placeholder {
-    font-style: 14px;
     font-style: normal;
     color: #797979;
 }
 
 .contact-section .form :-ms-input-placeholder {
-    font-style: 14px;
     font-style: normal;
     color: #797979;
 }
@@ -3098,54 +3090,6 @@ img {
 }
 
 /*! CSS Used fontfaces */
-@font-face {
-    font-family: 'themify';
-    src: url('../fonts/themify.eot?-fvbane');
-    src: url('../fonts/themify.eot#iefix-fvbane') format('embedded-opentype'), url('../fonts/themify.woff?-fvbane') format('woff'), url('../fonts/themify.ttf?-fvbane') format('truetype'), url('../fonts/themify.svg?-fvbane#themify') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Flaticon";
-    src: url("../fonts/Flaticon.eot");
-    src: url("../fonts/Flaticon.eot#iefix") format("embedded-opentype"), url("../fonts/Flaticon.woff2") format("woff2"), url("../fonts/Flaticon.woff") format("woff"), url("../fonts/Flaticon.ttf") format("truetype"), url("../fonts/Flaticon.svg#Flaticon") format("svg");
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Flaticon";
-    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
-}
-
-@font-face {
-    font-family: 'Now';
-    src: url(../fonts/now-regular.otf) format("truetype");
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Now';
-    src: url(../fonts/now-medium.otf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Now';
-    src: url(../fonts/now-light.otf) format("truetype");
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Now';
-    src: url(../fonts/now-thin.otf) format("truetype");
-    font-weight: 200;
-    font-style: normal;
-}
 
 @font-face {
     font-family: 'aphroditeslimtextregular';
