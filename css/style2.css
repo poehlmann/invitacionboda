@@ -1946,11 +1946,11 @@ img {
 }
 
 .invitation-section .invitation-box {
-    background: #fff;
+    background: #fff0;
     max-width: 580px;
     padding: 120px 100px;
     -webkit-box-shadow: 0px 3px 24px 0px rgba(0, 0, 0, 0.06);
-    box-shadow: 0px 3px 24px 0px rgba(0, 0, 0, 0.06);
+    box-shadow:0px 3px 24px 0px rgb(0 0 0 / 0%);
     text-align: center;
     margin: 100px auto;
     position: relative;
@@ -1978,7 +1978,7 @@ img {
     position: absolute;
     left: 50px;
     top: 50px;
-    border: 5px solid rgba(178, 201, 211, 0.3);
+    /*border: 5px solid rgba(178, 201, 211, 0.3);*/
 }
 
 @media (max-width: 767px) {
@@ -1988,7 +1988,7 @@ img {
         position: absolute;
         left: 20px;
         top: 20px;
-        border: 3px solid rgba(178, 201, 211, 0.3);
+        border: 3px solid rgb(178 201 211 / 0%);
     }
 }
 
@@ -2017,21 +2017,27 @@ img {
 }
 
 .invitation-section .invitation-box .right-vec {
-    background: url("https://themegeniuslab.com/html/jolly/assets/images/invitation-right-image.png") center center/cover no-repeat local;
-    width: 400px;
-    height: 508px;
+    background: url("../images/invitacion_fondo.jpg") center center/cover no-repeat local;
+    width: 100vh;
+    height: 775px;
     position: absolute;
-    right: -120px;
-    bottom: -100px;
+    right: -170px;
+    bottom: -111px;
     z-index: -1;
 }
-
+.gold-text{
+    background: linear-gradient(90deg, rgba(242,210,128,1) 1%, rgba(253,227,142,1) 9%, rgba(196,138,48,1) 30%);
+    padding-top: 10px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: #ffffff00;
+}
 @media (max-width: 991px) {
     .invitation-section .invitation-box .right-vec {
-        width: 300px;
-        height: 381px;
-        right: -80px;
-        bottom: -50px;
+        /*background: url("../images/invitacion_fondo_movil.png") center center/cover no-repeat local;*/
+        width: 100vh;
+        height: 601px;
+        right: -231px;
+        bottom: 37px;
     }
 }
 
