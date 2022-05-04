@@ -2036,7 +2036,9 @@ img {
         bottom: 38px;
     }
 }
-
+.curse_font{
+    font-family: "aphroditeslimtextregular";
+}
 .invitation-section .invitation-box h2 {
     font-family: "aphroditeslimtextregular", serif;
     font-size: 50px;
