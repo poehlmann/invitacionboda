@@ -263,7 +263,7 @@ h3 {
 }
 
 h4 {
-    font-size: 18px;
+    font-size: 14px !important;
 }
 
 p {
@@ -926,7 +926,7 @@ img {
 }
 
 .theme-btn {
-    background-color: #b2c9d3;
+    background-color: #52806e;
     color: #fff;
     padding: 15px 20px 15px 25px;
     font-weight: 600;
@@ -1945,7 +1945,7 @@ img {
     background: #fff0;
     max-width: 580px;
     padding: 120px 100px;
-    -webkit-box-shadow: 0px 3px 24px 0px rgba(0, 0, 0, 0.06);
+    /*-webkit-box-shadow: 0px 3px 24px 0px rgba(0, 0, 0, 0.06);*/
     /*box-shadow:0px 3px 24px 0px rgb(0 0 0 / 0%);*/
     text-align: center;
     margin: 100px auto;
@@ -2015,10 +2015,10 @@ img {
 .invitation-section .invitation-box .right-vec {
     background: url("../images/invitacion_fondo.jpg") center center/cover no-repeat local;
     width: 1015px;
-    height: 775px;
+    height: 774px;
     position: absolute;
     right: -170px;
-    bottom: -111px;
+    bottom: -48px;
     z-index: -1;
 }
 .gold-text{
@@ -2030,10 +2030,10 @@ img {
 @media (max-width: 991px) {
     .invitation-section .invitation-box .right-vec {
         /*background: url("../images/invitacion_fondo_movil.png") center center/cover no-repeat local;*/
-        width: 840px;
-        height: 601px;
-        right: -231px;
-        bottom: 37px;
+        width: 933px;
+        height: 628px;
+        right: -271px;
+        bottom: 38px;
     }
 }
 
