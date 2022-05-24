@@ -1962,7 +1962,7 @@ img {
 @media (max-width: 767px) {
     .invitation-section .invitation-box {
         max-width: 300px;
-        padding: 50px 40px;
+        padding: 22px 24px;
         margin: 0 auto;
     }
 }
@@ -2030,10 +2030,10 @@ img {
 @media (max-width: 991px) {
     .invitation-section .invitation-box .right-vec {
         /*background: url("../images/invitacion_fondo_movil.png") center center/cover no-repeat local;*/
-        width: 933px;
-        height: 628px;
-        right: -271px;
-        bottom: 38px;
+        width: 1023px;
+        height: 690px;
+        right: -312px;
+        bottom: -22px;
     }
 }
 .curse_font{

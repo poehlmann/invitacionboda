@@ -10,11 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ef2789f-df90-4ff3-bd7b-fef7ba92a4c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6ef2789f-df90-4ff3-bd7b-fef7ba92a4c4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +65,7 @@
       <workItem from="1652126319109" duration="25000" />
       <workItem from="1653321516248" duration="2628000" />
       <workItem from="1653367957841" duration="307000" />
-      <workItem from="1653406610618" duration="343000" />
+      <workItem from="1653406610618" duration="909000" />
     </task>
     <task id="LOCAL-00001" summary="invitacion de boda">
       <created>1651019975470</created>
@@ -162,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653327271147</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="down">
+      <created>1653407139027</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1653407139027</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +187,8 @@
     <MESSAGE value="invitacion de boda" />
     <MESSAGE value="boda" />
     <MESSAGE value="invitacion" />
-    <option name="LAST_COMMIT_MESSAGE" value="invitacion" />
+    <MESSAGE value="down" />
+    <option name="LAST_COMMIT_MESSAGE" value="down" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1877" height="109" key="GridCell.Tab.0.bottom" timestamp="1650923266597">
@@ -251,10 +255,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1650905096544" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1653327305005">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1653407141366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1653327305005" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1536.824/1920.0.1920.1040@0.0.1920.1040" timestamp="1653407141366" />
     <state x="667" y="253" width="585" height="592" key="find.popup" timestamp="1651701242811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
