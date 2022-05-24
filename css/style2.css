@@ -2030,10 +2030,10 @@ img {
 @media (max-width: 991px) {
     .invitation-section .invitation-box .right-vec {
         /*background: url("../images/invitacion_fondo_movil.png") center center/cover no-repeat local;*/
-        width: 1023px;
-        height: 690px;
-        right: -312px;
-        bottom: -22px;
+        width: 1041px;
+        height: 710px;
+        right: -324px;
+        bottom: -34px;
     }
 }
 .curse_font{
