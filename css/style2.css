@@ -2036,6 +2036,9 @@ img {
         bottom: -34px;
     }
 }
+.site-logo a{
+    text-decoration: none;
+}
 .curse_font{
     font-family: "aphroditeslimtextregular";
 }

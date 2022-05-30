@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef2789f-df90-4ff3-bd7b-fef7ba92a4c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +70,7 @@
       <workItem from="1653406610618" duration="1816000" />
       <workItem from="1653481314682" duration="7000" />
       <workItem from="1653504642025" duration="6000" />
+      <workItem from="1653952318863" duration="348000" />
     </task>
     <task id="LOCAL-00001" summary="invitacion de boda">
       <created>1651019975470</created>
@@ -183,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653407821430</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="boda">
+      <created>1653952493585</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1653952493585</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,10 +211,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="invitacion de boda" />
-    <MESSAGE value="boda" />
     <MESSAGE value="invitacion" />
     <MESSAGE value="down" />
-    <option name="LAST_COMMIT_MESSAGE" value="down" />
+    <MESSAGE value="boda" />
+    <option name="LAST_COMMIT_MESSAGE" value="boda" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1877" height="109" key="GridCell.Tab.0.bottom" timestamp="1650923266597">
